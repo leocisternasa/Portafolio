@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Link from 'next/link'
 import Image from 'next/image'
-import projectImage from '../public/IMG_2494.jpg'
+import projectImage from '../public/IMG_2494.JPG'
 
 const DataAnalysis: NextPage = () => {
   return (
