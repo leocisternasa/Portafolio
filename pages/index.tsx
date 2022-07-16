@@ -32,6 +32,12 @@ const Home: NextPage = () => {
     linkUrl: '/data_analysis',
     image: '/anthony-duran-xypTOFe_hqc-unsplash.jpeg.crdownload',
   })
+  projectMetadataArray.push({
+    title: 'Data analysis App',
+    desc: 'Processes data in Python',
+    linkUrl: '/data_analysis',
+    image: '/anthony-duran-xypTOFe_hqc-unsplash.jpeg.crdownload',
+  })
 
   const projectPreviewElements = []
 
